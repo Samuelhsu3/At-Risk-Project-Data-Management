@@ -1,0 +1,1 @@
+These are scripts that you can run before transfering to Compute Canada for pre-processing. Any of these steps can be done manually but should be avoided unless it's necessary.
