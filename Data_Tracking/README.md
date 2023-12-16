@@ -1,0 +1,1 @@
+These are google apps scripts. They are tools that make tracking easier between sheets. Make sure you understand what each tool does before using them or they might make unexpected changes. 
