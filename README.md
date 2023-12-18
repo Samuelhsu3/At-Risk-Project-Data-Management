@@ -16,7 +16,7 @@ There are 8 scripts inside [Data Tracking](Data_Tracking).
 There are 38 scripts that may be needed for processing to sourcedata format and they are stored in the  [Data Management Folder](Data_Management). These are divided by projects. 
 The guide on using my dashboard and other information you might need for the project can be found in the [Guides](Guides) folder.
 
-You can save any of these scripts and test them out in your own scratch folder but remember to replace pathways if applicable. The [Documentation Notebook](Documentation.ipynb) summarizes everything pretty well and references maybe a third of the scripts within its explanation? I dont' really
+You can save any of these scripts and test them out in your own scratch folder but remember to replace pathways if applicable. The [Documentation Notebook](Documentation.ipynb) summarizes everything pretty well and references maybe a third of the scripts within its explanation? 
 
 Good Luck!
 
